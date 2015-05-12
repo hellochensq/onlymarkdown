@@ -1,0 +1,8 @@
+.background {
+    -fx-background-color: #1d1d1d;
+}
+
+.text-area .content{
+  -fx-background-color: #1d1d1d;
+  -fx-font-family: 'Microsoft YaHei';
+}
